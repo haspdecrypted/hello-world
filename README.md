@@ -1,2 +1,2 @@
-# Springboot Hello World
- Springboot Hello World starter project
+# hello-world
+ Springboot Hello World
